@@ -15,7 +15,6 @@
 	<loadAfter>
 		<li>undefined.futuremetal</li>
 	</loadAfter>
-	<description>	
-		Добавляет различные типы интересных футуристических руд для генерации карт.
+	<description>Добавляет различные типы интересных футуристических руд для генерации карт.
 	</description>
 </ModMetaData>
