@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<MineableEtherium.label>этериевая руда</MineableEtherium.label>
+	<MineableEtherium.description>Эта порода содержит вкрапления этериевой руды.</MineableEtherium.description>
+	
+	<MineableXithricite.label>кситрицитовая руда</MineableXithricite.label>
+	<MineableXithricite.description>Эта порода содержит вкрапления кситрицитовой руды.</MineableXithricite.description>
+	
+	<MineableCargonite.label>каргонитовая руда</MineableCargonite.label>
+	<MineableCargonite.description>Эта порода содержит вкрапления каргонитовой руды.</MineableCargonite.description>
+	
+	<MineableCelestium.label>целестиевая руда</MineableCelestium.label>
+	<MineableCelestium.description>Эта порода содержит вкрапления целестиевой руды.</MineableCelestium.description>
+	
+	<MineableStygianite.label>стигианитовая руда</MineableStygianite.label>
+	<MineableStygianite.description>Эта порода содержит вкрапления стигианитовой руды.</MineableStygianite.description>
+	
+	<MineableDurium.label>дюриевая руда</MineableDurium.label>
+	<MineableDurium.description>Эта порода содержит вкрапления дюриевой руды.</MineableDurium.description>
+
+</LanguageData>
